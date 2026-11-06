@@ -5,6 +5,7 @@ node_modules/
 .next/
 out/
 coverage/
+.coverage
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -15,6 +16,7 @@ build/
 *.db
 *.sqlite*
 *.log
+*.tsbuildinfo
 backend/instance/
 c-program/grocery_billing
 c-program/grocery_billing.exe
