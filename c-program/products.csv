@@ -1,0 +1,12 @@
+sku,name,unit,price,gst_percent,stock,min_stock
+RICE-001,Basmati Rice,kg,120.00,5.00,50.000,10.000
+WHEAT-001,Whole Wheat Flour,kg,48.00,5.00,40.000,8.000
+DAL-001,Toor Dal,kg,145.00,5.00,25.000,5.000
+OIL-001,Sunflower Oil,l,155.00,5.00,30.000,6.000
+MILK-001,Toned Milk,l,58.00,5.00,20.000,5.000
+BREAD-001,Whole Wheat Bread,pack,45.00,5.00,18.000,4.000
+POTATO-001,Potato,kg,32.00,0.00,35.000,8.000
+ONION-001,Onion,kg,38.00,0.00,30.000,8.000
+SOAP-001,Bathing Soap,pcs,38.00,18.00,24.000,6.000
+TEA-001,Assam Tea,pack,180.00,5.00,15.000,4.000
+

@@ -1,0 +1,17 @@
+sku,barcode,name,category,unit,price,gst_percent,stock,min_stock,reorder_qty
+GRN-RICE-01,8901001000011,Basmati Rice,Grains,kg,120.00,5,100,20,50
+GRN-WHEAT-01,8901001000028,Whole Wheat Flour,Grains,kg,48.00,5,80,15,40
+PUL-TOOR-01,8901001000035,Toor Dal,Pulses,kg,145.00,5,50,10,25
+PUL-MOONG-01,8901001000042,Moong Dal,Pulses,kg,132.00,5,45,10,25
+OIL-SUN-01,8901001000059,Sunflower Oil,Cooking Essentials,l,155.00,5,60,12,30
+DAI-MILK-01,8901001000066,Toned Milk,Dairy,l,58.00,5,40,10,30
+DAI-CURD-01,8901001000073,Fresh Curd,Dairy,pack,42.00,5,30,8,20
+BAK-BREAD-01,8901001000080,Whole Wheat Bread,Bakery,pack,45.00,5,24,6,18
+SNK-BISC-01,8901001000097,Marie Biscuits,Snacks,pack,30.00,18,50,10,30
+BEV-TEA-01,8901001000103,Assam Tea,Beverages,pack,180.00,5,25,5,15
+PRO-POTATO-01,8901001000110,Potato,Produce,kg,32.00,0,60,15,40
+PRO-ONION-01,8901001000127,Onion,Produce,kg,38.00,0,55,15,40
+PRO-TOMATO-01,8901001000134,Tomato,Produce,kg,44.00,0,35,10,30
+HOU-SOAP-01,8901001000141,Bathing Soap,Household,pcs,38.00,18,48,12,30
+HOU-DETER-01,8901001000158,Laundry Detergent,Household,kg,112.00,18,32,8,20
+
